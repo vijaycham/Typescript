@@ -1,3 +1,4 @@
+export {};
 function generateError(message?: string){
   throw new Error(message);
 }
